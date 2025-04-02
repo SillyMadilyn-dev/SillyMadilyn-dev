@@ -2,6 +2,7 @@
 - 📫 How to reach me @sillymadilyn on discord!
 - 😄 Pronouns: She/her
 - Owner and developer of Ember SMP
+
 Socials:
 YT: https://www.youtube.com/@SillyMadilyn
 Twitter/X: https://x.com/SillyMadilyn
