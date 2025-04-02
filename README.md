@@ -4,8 +4,11 @@
 - Owner and developer of Ember SMP
 
 Socials:
+
 YT: https://www.youtube.com/@SillyMadilyn
+
 Twitter/X: https://x.com/SillyMadilyn
+
 DC Server: https://discord.gg/mkU85cRsKH
 
 <!---
