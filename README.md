@@ -3,7 +3,7 @@
 - 😄 Pronouns: She/her
 - Owner and developer of Ember SMP
 
-Socials:
+# Socials:
 
 YT: https://www.youtube.com/@SillyMadilyn
 
