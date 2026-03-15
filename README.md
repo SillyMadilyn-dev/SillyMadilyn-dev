@@ -9,7 +9,7 @@ YT: https://www.youtube.com/@SillyMadilyn
 
 Twitter/X: https://x.com/SillyMadilyn
 
-DC Server: {REDACTED}
+DC Server: It'll be here later
 
 <!---
 SillyMadilyn-dev/SillyMadilyn-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
