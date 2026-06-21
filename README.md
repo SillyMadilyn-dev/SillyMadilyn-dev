@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SillyMadilyn, Call me Madilyn or Madi :D
 - 📫 How to reach me @sillymadilyn on discord!
 - 😄 Pronouns: She/her
-- Owner and developer of Slate SMP
+- Owner and developer of Ember SMP
 
 # Socials:
 
